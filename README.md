@@ -181,7 +181,7 @@ document.getElementById('checkScore').addEventListener('click', function() {
 ```
 
 ## Live web page:
-
+https://samjxdev.github.io/Quiz_Master/
 ## Output:
 <img width="1918" height="972" alt="image" src="https://github.com/user-attachments/assets/6280ca30-b602-4097-8b79-a2d240186dc3" />
 
